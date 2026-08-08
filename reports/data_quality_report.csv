@@ -1,0 +1,10 @@
+check_name,category,failed_records,total_records,failure_rate,severity,status
+Missing shipment_id,Completeness,0,12075,0.0,Critical,PASS
+Missing carrier,Completeness,100,12075,0.0083,High,FAIL
+Missing origin,Completeness,74,12075,0.0061,High,FAIL
+Missing destination,Completeness,72,12075,0.006,High,FAIL
+Duplicate shipment_id,Uniqueness,150,12075,0.0124,Critical,FAIL
+Arrival before shipment,Validity,45,12075,0.0037,Critical,FAIL
+Negative transit days,Validity,30,12075,0.0025,Critical,FAIL
+Missing expected arrival,Completeness,49,12075,0.0041,Medium,FAIL
+Missing actual arrival,Completeness,48,12075,0.004,Medium,FAIL
