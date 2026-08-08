@@ -240,4 +240,3 @@ The shipment data included in this repository is **synthetically generated for p
 
 **Mahendra Kumar Mahto**
 
-Portfolio project for Data Analyst / Data Quality / Business Analytics roles.
