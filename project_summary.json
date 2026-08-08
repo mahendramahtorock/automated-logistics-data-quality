@@ -1,0 +1,26 @@
+{
+  "records_raw": 12075,
+  "columns": [
+    "shipment_id",
+    "container_id",
+    "carrier",
+    "origin",
+    "destination",
+    "origin_country",
+    "destination_country",
+    "shipment_date",
+    "expected_arrival",
+    "actual_arrival",
+    "status",
+    "actual_transit_days",
+    "expected_transit_days"
+  ],
+  "project_type": "Synthetic logistics data quality and QA pipeline",
+  "tools": [
+    "Python",
+    "Pandas",
+    "SQL",
+    "Power BI",
+    "GitHub"
+  ]
+}
